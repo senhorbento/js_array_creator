@@ -1,0 +1,1 @@
+A simple tool that create a array with all files in the path
